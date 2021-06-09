@@ -8,4 +8,7 @@ Seaborn
 Matplotlib
 Python
 Flask
+Html
+Css
+Bootstrap
 
