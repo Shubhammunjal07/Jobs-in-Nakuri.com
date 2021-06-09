@@ -4,7 +4,7 @@ Job seekers can search job according to their skiils and other criteria.
 # Requirements
 Numpy
 Pandas
-Seaborm
+Seaborn
 Matplotlib
 Python
 Flask
